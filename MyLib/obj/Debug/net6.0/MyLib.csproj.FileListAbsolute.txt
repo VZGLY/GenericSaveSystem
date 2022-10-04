@@ -1,0 +1,12 @@
+C:\Users\GavinC\RiderProjects\Delegate\MyLib\bin\Debug\net6.0\MyLib.deps.json
+C:\Users\GavinC\RiderProjects\Delegate\MyLib\bin\Debug\net6.0\MyLib.dll
+C:\Users\GavinC\RiderProjects\Delegate\MyLib\bin\Debug\net6.0\MyLib.pdb
+C:\Users\GavinC\RiderProjects\Delegate\MyLib\obj\Debug\net6.0\MyLib.csproj.AssemblyReference.cache
+C:\Users\GavinC\RiderProjects\Delegate\MyLib\obj\Debug\net6.0\MyLib.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\GavinC\RiderProjects\Delegate\MyLib\obj\Debug\net6.0\MyLib.AssemblyInfoInputs.cache
+C:\Users\GavinC\RiderProjects\Delegate\MyLib\obj\Debug\net6.0\MyLib.AssemblyInfo.cs
+C:\Users\GavinC\RiderProjects\Delegate\MyLib\obj\Debug\net6.0\MyLib.csproj.CoreCompileInputs.cache
+C:\Users\GavinC\RiderProjects\Delegate\MyLib\obj\Debug\net6.0\MyLib.dll
+C:\Users\GavinC\RiderProjects\Delegate\MyLib\obj\Debug\net6.0\refint\MyLib.dll
+C:\Users\GavinC\RiderProjects\Delegate\MyLib\obj\Debug\net6.0\MyLib.pdb
+C:\Users\GavinC\RiderProjects\Delegate\MyLib\obj\Debug\net6.0\ref\MyLib.dll
